@@ -1,5 +1,6 @@
 # CSE422_Project
 Artificial Intelligence
+
 This project addresses student academic outcome prediction (Dropout / Graduate / Enrolled) using a multi-class classification framework on an educational dataset with 17 categorical and 7 numerical features.
 ​
 The dataset undergoes comprehensive exploratory data analysis (EDA), revealing class imbalance, strong feature-feature correlations (e.g., parental occupations ~0.95), and meaningful target relationships (previous grades ~+0.40 with outcome).
